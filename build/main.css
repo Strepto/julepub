@@ -22141,3 +22141,15 @@ sub {
     background-color: #6b92b9;
   }
 }
+
+page-feed .loader {
+  background: #f20d49 !important;
+  border-radius: 0px;
+  height: 20px;
+}
+
+page-feed .loader p {
+  text-align: center;
+  color: white !important;
+  text-align: center;
+}
